@@ -1,5 +1,5 @@
 # Api-Rest-ToDo-List-in-.Net-5
-Este es una Api Rest- de un proyecto para realistas lista de tareas (To-Do List) 
+Este es una Api Rest- de un proyecto para realistas lista de tareas <strong>(To-Do List)</strong>
 desarrollado en .Net 5 con la Arquitectura Onion(Una propuesta para mejorar la arquitectura N Capas)
 
 En este proyecto se aplican los siguientes principios
