@@ -1,0 +1,12 @@
+E:\Development\Canvia\SolutionToDoList\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Development\Canvia\SolutionToDoList\Domain\bin\Debug\net5.0\Domain.dll
+E:\Development\Canvia\SolutionToDoList\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\Development\Canvia\SolutionToDoList\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Development\Canvia\SolutionToDoList\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Development\Canvia\SolutionToDoList\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Canvia\SolutionToDoList\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Development\Canvia\SolutionToDoList\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Development\Canvia\SolutionToDoList\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Development\Canvia\SolutionToDoList\Domain\obj\Debug\net5.0\Domain.dll
+E:\Development\Canvia\SolutionToDoList\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Development\Canvia\SolutionToDoList\Domain\obj\Debug\net5.0\Domain.pdb

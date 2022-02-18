@@ -1,0 +1,17 @@
+E:\Development\Canvia\SolutionToDoList\Persistence\bin\Debug\net5.0\Persistence.deps.json
+E:\Development\Canvia\SolutionToDoList\Persistence\bin\Debug\net5.0\Persistence.dll
+E:\Development\Canvia\SolutionToDoList\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+E:\Development\Canvia\SolutionToDoList\Persistence\bin\Debug\net5.0\Persistence.pdb
+E:\Development\Canvia\SolutionToDoList\Persistence\bin\Debug\net5.0\Application.dll
+E:\Development\Canvia\SolutionToDoList\Persistence\bin\Debug\net5.0\Domain.dll
+E:\Development\Canvia\SolutionToDoList\Persistence\bin\Debug\net5.0\Application.pdb
+E:\Development\Canvia\SolutionToDoList\Persistence\bin\Debug\net5.0\Domain.pdb
+E:\Development\Canvia\SolutionToDoList\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+E:\Development\Canvia\SolutionToDoList\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Canvia\SolutionToDoList\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+E:\Development\Canvia\SolutionToDoList\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+E:\Development\Canvia\SolutionToDoList\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Development\Canvia\SolutionToDoList\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+E:\Development\Canvia\SolutionToDoList\Persistence\obj\Debug\net5.0\Persistence.dll
+E:\Development\Canvia\SolutionToDoList\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+E:\Development\Canvia\SolutionToDoList\Persistence\obj\Debug\net5.0\Persistence.pdb
