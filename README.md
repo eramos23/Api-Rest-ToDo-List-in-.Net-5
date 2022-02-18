@@ -21,7 +21,9 @@ desarrollado en .Net 5 con la <strong>Arquitectura Onion</strong>(Una propuesta 
 
 [![CQRS.png](https://i.postimg.cc/44FyT4N7/CQRS.png)](https://postimg.cc/0rDPYsSP)
   
+  
+  
   <h3><strong>Mediator</strong></h3>
 -Permite reducir la dependencia cahotica entre componentes, hacer que los componentes no se comuniquen directamente entre ellos 
+  
   [![Mediator-Pattern.png](https://i.postimg.cc/63WqByvR/Mediator-Pattern.png)](https://postimg.cc/Y4PM328q)
-">
