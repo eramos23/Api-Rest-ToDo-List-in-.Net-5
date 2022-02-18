@@ -1,6 +1,7 @@
 # Api-Rest-ToDo-List-in-.Net-5
 Este es una Api Rest- de un proyecto para realistas lista de tareas <strong>(To-Do List)</strong>
 desarrollado en .Net 5 con la <strong>Arquitectura Onion</strong>(Una propuesta para mejorar la arquitectura N Capas)
+[![dhti2v0e1smn055tages.png](https://i.postimg.cc/d0mDM8Lw/dhti2v0e1smn055tages.png)](https://postimg.cc/KKjmB3PH)
 
 
 
@@ -18,9 +19,9 @@ desarrollado en .Net 5 con la <strong>Arquitectura Onion</strong>(Una propuesta 
 <h3><strong>CQRS</strong></h3> Patron de desagregacion de consultas y comandos
 -Separa la forma de leer y escribir datos
 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdesign-microservices-architecture-with-patterns%2Fcqrs-design-pattern-in-microservices-architectures-5d41e359768c&psig=AOvVaw02mdQvE9KeGFxm8WiORRrK&ust=1645285007289000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjo_uvKifYCFQAAAAAdAAAAABAD">
+[![CQRS.png](https://i.postimg.cc/44FyT4N7/CQRS.png)](https://postimg.cc/0rDPYsSP)
   
   <h3><strong>Mediator</strong></h3>
 -Permite reducir la dependencia cahotica entre componentes, hacer que los componentes no se comuniquen directamente entre ellos 
-  <img src="![image](https://user-images.githubusercontent.com/15219079/154714323-0e8185ba-d112-4266-b5ca-93de805806a6.png)
+  [![Mediator-Pattern.png](https://i.postimg.cc/63WqByvR/Mediator-Pattern.png)](https://postimg.cc/Y4PM328q)
 ">
