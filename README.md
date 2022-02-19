@@ -7,29 +7,30 @@ desarrollado en .Net 5 con la <strong>Arquitectura Onion</strong>(Una propuesta 
 
 <strong><h3>En este proyecto se aplican los siguientes principios</h3></strong>
 
-<b>Principio de inversión de control</b>
+  <b>Principio de inversión de control</b>
 Principio que permite que el trabajo y flujo de la aplicación se ha gestionado por un agente externo(otro framework o librería)
 
-<b>Principio de Inyección de dependencias</b>
+  <b>Principio de Inyección de dependencias</b>
 Este principio permite inyectar componentes a las clases implentadas (los componentes son como contratos que necesitan nuestras clases para poder funcionar)
 
 
-  <strong><h3>En este proyecto se aplican algunos patrones de diseño</h3><strong>
+  <strong><h3>En este proyecto se aplican algunos patrones de diseño</h3></strong>
   
-<b>CQRS</b> Patron de desagregación de consultas y comandos
+  <b>CQRS</b> 
+Patron de desagregación de consultas y comandos
 Separa la forma de leer y escribir datos
 
 [![CQRS.png](https://i.postimg.cc/44FyT4N7/CQRS.png)](https://postimg.cc/0rDPYsSP)
   
   
   
-<b>Mediator</b>
-- Permite reducir la dependencia cahotica entre componentes, hace que los componentes no se comuniquen directamente entre ellos 
+  <b>Mediator</b>
+Permite reducir la dependencia cahotica entre componentes, hace que los componentes no se comuniquen directamente entre ellos 
   
   [![Mediator-Pattern.png](https://i.postimg.cc/63WqByvR/Mediator-Pattern.png)](https://postimg.cc/Y4PM328q)
 
   
   <b>Patron de Repositorio</b>
-  - El propósito del repositorio es ocultar los detalles del acceso a los datos. Podemos consultar fácilmente el repositorio de objetos de datos, sin tener que saber cómo proporcionar
-  -Diseño de responsabilidad única
-  -Repositorio generico
+El propósito del repositorio es ocultar los detalles del acceso a los datos. Podemos consultar fácilmente el repositorio de objetos de datos, sin tener que saber cómo proporcionar
+-Diseño de responsabilidad única
+-Repositorio generico
