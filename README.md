@@ -32,5 +32,5 @@ Permite reducir la dependencia cahotica entre componentes, hace que los componen
   
 3)  <b>Patron de Repositorio</b>
 El propósito del repositorio es ocultar los detalles del acceso a los datos. Podemos consultar fácilmente el repositorio de objetos de datos, sin tener que saber cómo proporcionar
--Diseño de responsabilidad única
--Repositorio generico
+- Diseño de responsabilidad única
+- Repositorio generico
