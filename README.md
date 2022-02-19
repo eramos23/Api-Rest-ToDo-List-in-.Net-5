@@ -5,26 +5,31 @@ desarrollado en .Net 5 con la <strong>Arquitectura Onion</strong>(Una propuesta 
 [![dhti2v0e1smn055tages.png](https://i.postimg.cc/d0mDM8Lw/dhti2v0e1smn055tages.png)](https://postimg.cc/KKjmB3PH)
 
 
+<strong><h3>En este proyecto se aplican los siguientes principios</h3></strong>
 
-<b>En este proyecto se aplican los siguientes principios</b>
-
-<strong><h3>Principio de inversión de control</h3></strong>
+<b>Principio de inversión de control</b>
 -Principio que permite que el trabajo y flujo de la aplicación se ha gestionado por un agente externo(otro framework o librería)
 
 <strong><h3>Principio de Inyección de dependencias</h3></strong>
--Este principio permite inyectar componentes a las clases implentadas (los componentes son como contratos que necesitan nuestras clases para poder funcionar)
+- Este principio permite inyectar componentes a las clases implentadas (los componentes son como contratos que necesitan nuestras clases para poder funcionar)
 
 
-  <b>En este proyecto se aplican algunos patrones de diseño</b>
+  <strong><h3>En este proyecto se aplican algunos patrones de diseño</h3><strong>
   
-<h3><strong>CQRS</strong></h3> Patron de desagregación de consultas y comandos
--Separa la forma de leer y escribir datos
+<b>CQRS</b> Patron de desagregación de consultas y comandos
+- Separa la forma de leer y escribir datos
 
 [![CQRS.png](https://i.postimg.cc/44FyT4N7/CQRS.png)](https://postimg.cc/0rDPYsSP)
   
   
   
-  <h3><strong>Mediator</strong></h3>
--Permite reducir la dependencia cahotica entre componentes, hace que los componentes no se comuniquen directamente entre ellos 
+  <b>Mediator</b>
+- Permite reducir la dependencia cahotica entre componentes, hace que los componentes no se comuniquen directamente entre ellos 
   
   [![Mediator-Pattern.png](https://i.postimg.cc/63WqByvR/Mediator-Pattern.png)](https://postimg.cc/Y4PM328q)
+
+  
+  <b>Patron de Repositorio</b>
+  - El propósito del repositorio es ocultar los detalles del acceso a los datos. Podemos consultar fácilmente el repositorio de objetos de datos, sin tener que saber cómo proporcionar
+  -Diseño de responsabilidad única
+  -Repositorio generico
